@@ -1,5 +1,8 @@
 <h1>History</h1>
 <body>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => (document.getElementById('lastModified').textContent = `Last Modified: ${new Date(document.lastModified).toLocaleString()}`));
+</script>
   <p>
     In the charming chronicles of Christie and Chris's Culinary Cottage, the cooking connoisseurs continued to craft a carnival of comestible delights. The cottage, with its cozy confines, became a crucible for creative concoctions and culinary camaraderie.
 
@@ -13,4 +16,5 @@ As the reputation of Christie and Chris's Culinary Cottage catapulted across the
 
 In the whimsical world of whisks and woks, the cottage became a cornerstone for the cultivation of culinary craftsmanship, a place where passion, precision, and playfulness pirouetted on plates with poetic panache. The legacy of ladles and laughter lingered like a luscious lingering aftertaste, making Christie and Chris's Culinary Cottage a cherished chapter in the cookbook of culinary celebrations, where the sizzling symphony of spices and the savory strains of splendid stories harmonized in a captivating culinary crescendo.
   </p>
+  <div id="lastModified"></div>
 </body>
