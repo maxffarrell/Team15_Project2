@@ -1,2 +1,5 @@
-#colors: 
-Dark salmon #e9967a
+# 1 Each of the site’s web pages must demonstrate boldfacing, underlining, italics, at least two font colors, at least two different font sizes (excluding headers),  and at least two different font styles (they may require you to use additional resources). 
+# 2 Each of the site’s web pages must contain at least one hyperlink (no more than three).  At least one hyperlink must link to a relevant site outside of your company site.  Links to sites outside of your team member’s pages (i.e., outside of your company’s pages) should not cause any of your company’s website pages to be replaced in the browser window with another entity’s page.
+# 3 Each page will contain a “contact me” link to send email to the person that created the page.  If you are uncomfortable having your email address online, use fake email addresses.    
+# 4 Each page on the site will include at least one picture, an ordered list, and an unordered list (they may require you to use additional resources).  
+# 5 Each page should include a file that can be downloaded that is relevant to the company.
