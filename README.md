@@ -1,18 +1,18 @@
 # MGMT382 Team 15 Project 2
 # Max Farrell, Aleksey Urmanov, Omar Yaghmour, Wentong Zhang
-## [Palette](https://www.color-hex.com/color-palette/1499)
-*As of 3.3, subject to change*
-
-- ![#9b2948](https://placehold.co/15x15/9b2948/9b2948.png) `#9b2948` (155, 41, 72) Nav text & branding
-- ![#ff7251](https://placehold.co/15x15/ff7251/ff7251.png) `#ff7251` (255,114, 81) text highlight color
-- ![#ffca7b](https://placehold.co/15x15/ffca7b/ffca7b.png) `#ffca7b` (255,202,123) Nav
-- ![#ffcd74](https://placehold.co/15x15/ffcd74/ffcd74.png) `#ffcd74` (255,205,116) Page div background
-- ![#ffedbf](https://placehold.co/15x15/ffedbf/ffedbf.png) `#ffedbf` (255,237,191) background
-
-## Other components
- - Page title: [Page] - Christie and Chris’s Cooking Cabin
+## Elements
+ - Page title: *PageTitle* - Christie and Chris’s Cooking Cabin
  - Headings: Centered, Helvetica
  - Content: Avenir
+
+## [Color Palette](https://www.color-hex.com/color-palette/1499)
+*As of 3.3, subject to change*
+
+- ![#ffedbf](https://placehold.co/15x15/ffedbf/ffedbf.png) `#ffedbf` (255,237,191) background
+- ![#ffcd74](https://placehold.co/15x15/ffcd74/ffcd74.png) `#ffcd74` (255,205,116) Page div background
+- ![#ffca7b](https://placehold.co/15x15/ffca7b/ffca7b.png) `#ffca7b` (255,202,123) Nav
+- ![#ff7251](https://placehold.co/15x15/ff7251/ff7251.png) `#ff7251` (255,114, 81) text highlight color
+- ![#9b2948](https://placehold.co/15x15/9b2948/9b2948.png) `#9b2948` (155, 41, 72) Nav text & branding
 
 ## [Assignment](https://docs.google.com/document/d/1_ibNTPh-GtRLa8-hMkegh4qR96r4M47Y/)
 1. Each of the site’s web pages must demonstrate boldfacing, underlining, italics, at least two font colors, at least two different font sizes (excluding headers),  and at least two different font styles (they may require you to use additional resources). 
