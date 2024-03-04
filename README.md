@@ -10,9 +10,8 @@
 - ![#ffedbf](https://placehold.co/15x15/ffedbf/ffedbf.png) `#ffedbf` (255,237,191) background
 
 ## Other components
-Page title: [Page] - Christie and Chris’s Cooking Cabin
-Fonts: 
- - Headings: Helvetica
+ - Page title: [Page] - Christie and Chris’s Cooking Cabin
+ - Headings: Centered, Helvetica
  - Content: Avenir
 
 ## [Assignment](https://docs.google.com/document/d/1_ibNTPh-GtRLa8-hMkegh4qR96r4M47Y/)
