@@ -9,6 +9,12 @@
 - ![#ffcd74](https://placehold.co/15x15/ffcd74/ffcd74.png) `#ffcd74` (255,205,116) Page div background
 - ![#ffedbf](https://placehold.co/15x15/ffedbf/ffedbf.png) `#ffedbf` (255,237,191) background
 
+## Other components
+Page title: [Page] - Christie and Chris’s Cooking Cabin
+Fonts: 
+ - Headings: Helvetica
+ - Content: Avenir
+
 ## [Assignment](https://docs.google.com/document/d/1_ibNTPh-GtRLa8-hMkegh4qR96r4M47Y/)
 1. Each of the site’s web pages must demonstrate boldfacing, underlining, italics, at least two font colors, at least two different font sizes (excluding headers),  and at least two different font styles (they may require you to use additional resources). 
 2. Each of the site’s web pages must contain at least one hyperlink (no more than three).  At least one hyperlink must link to a relevant site outside of your company site.  Links to sites outside of your team member’s pages (i.e., outside of your company’s pages) should not cause any of your company’s website pages to be replaced in the browser window with another entity’s page.
