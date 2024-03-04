@@ -4,10 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Christie and Chris's Cooking Cabin Products</title>
+    <script>
+    document.addEventListener('DOMContentLoaded', () => (document.getElementById('lastModified').textContent = `Last Modified: ${new Date(document.lastModified).toLocaleString()}`));
+  </script>
 </head>
-<body>
+<body bgcolor="ffedbf" style="font-family: Avenir; padding:5%">
     <header>
-        <h1>Products That We Offered!</h1>
+        <h1 style="font-family: Helvetica; text-align: center;">Products That We Offered!</h1>
     </header>
     
     <div>
@@ -54,14 +57,15 @@
         <p>Become part of a growing community of cooking enthusiasts...</p>
     </section>
     <a href="http://example.com">Visit our main website</a><br>
-    <a href="mailto:contact@cookingcabin.com">Contact us via email</a><br>
+    <a href="wentz@cookingcabin.com">Contact us via email</a><br>
     <img src="kitchen.jpg" alt="A bustling kitchen scene at Christie and Chris's Cooking Cabin." width="500"><br>
     <a href="menu.pdf">Download Our Latest Menu</a><br>
     <p>Last updated: <font color="red">[Insert Date Here Manually]</font></p>
     <footer>
         <p>Contact us today to learn more about our services or to book your next cooking experience.</p>
     </footer>
-
+    <div id="lastModified"></div>
+  </div>
 </body>
 </html>
 
