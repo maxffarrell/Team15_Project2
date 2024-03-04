@@ -1,18 +1,23 @@
 <!DOCTYPE html>
 <html>
-  <head>
+
+<head>
   <script>
     document.addEventListener('DOMContentLoaded', () => (document.getElementById('lastModified').textContent = `Last Modified: ${new Date(document.lastModified).toLocaleString()}`));
   </script>
 </head>
-  <body bgcolor="#ffca7b">
-    <ul style="color:#9b2948;">
-      <li><a href="team_webpage_content.html" target="rightFrame", style="text-color:#9b2948">Home</a></li>
-      <li><a href="history.html" target="rightFrame">History & Management</a></li>
-      <li><a href="product.html" target="rightFrame">Products</a></li>
-      <li><a href="services.html" target="rightFrame">Services</a></li>
-      <li><a href="reviews.html" target="rightFrame">Reviews</a></li>
-    </ul>
-    <div id="lastModified"></div>
-  </body>
+
+<body bgcolor="#ffca7b" style="color: #9b2948; font-family: Avenir; padding:10%">
+  <a href="team_webpage_content.html" target="rightFrame">
+    <center><img src="images/logo.png" width="75%">
+      <div style="padding: 10px;">Home
+  </a></div>
+  <div style="padding: 10px;"><a href="history.html" target="rightFrame">History & Management</a></div>
+  <div style="padding: 10px;"><a href="product.html" target="rightFrame">Products</a></div>
+  <div style="padding: 10px;"><a href="services.html" target="rightFrame">Services</a></div>
+  <div style="padding: 10px;"><a href="reviews.html" target="rightFrame">Reviews</a></div>
+  <div id="lastModified"></div>
+  </center>
+</body>
+
 </html>
