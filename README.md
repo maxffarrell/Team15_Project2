@@ -8,7 +8,7 @@
 ## [Color Palette](https://www.color-hex.com/color-palette/1499)
 *As of 3.3, subject to change*
 
-- ![#ffedbf](https://placehold.co/15x15/ffedbf/ffedbf.png) `#ffedbf` background
+- ![#ffedbf](https://placehold.co/15x15/ffedbf/ffedbf.png) `#ffedbf` Background
 - ![#ffcd74](https://placehold.co/15x15/ffcd74/ffcd74.png) `#ffcd74` Page div background
 - ![#ffca7b](https://placehold.co/15x15/ffca7b/ffca7b.png) `#ffca7b` Nav
 - ![#ff7251](https://placehold.co/15x15/ff7251/ff7251.png) `#ff7251` Text highlight color
