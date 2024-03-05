@@ -1,67 +1,42 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-  <title>Our Services - Christie and Chris’s Cooking Cabin</title>
-  <script>
-    document.addEventListener('DOMContentLoaded', () => (document.getElementById('lastModified').textContent = `Last Modified: ${new Date(document.lastModified).toLocaleString()}`));
-  </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - Christie and Chris’s Cooking Cabin</title>
 </head>
-
-<body bgcolor="ffedbf" style="font-family: Avenir; padding:5%">
-  <h1 style="font-family: Helvetica; text-align: center;">Our Services</h1>
-  <center><img src="images/history.jpeg" style="width: 50%; border-radius: 15px;"></center>
-</head>
-    
 <body>
-    <header>
-        <h1><font size="5">Welcome to <i>Christie and Chris's Cooking Cabin!</i></font></h1>
-    </header>
-    <section>
-        <h2>Our Services</h2>
-      <body bgcolor="ffedbf" style="font-family: Avenir; padding:5%">
-  <h1 style="font-family: Helvetica; text-align: center;">Our Services</h1>
-  <center><img src="images/history.jpeg" style="width: 50%; border-radius: 15px;"></center>
-        <div>
-            <h3><b>Cooking Classes</b></h3>
-            <p>Join our <u>Hands-on cooking classes</u> led by experienced chefs...</p>
-        </div>
-        <div>
-            <h3><b>Online Workshops</b></h3>
-            <p>Can't make it to our cabin? Enroll in our <font color="blue">online workshops...</font></p>
-        </div>
-        <div>
-            <h3><b>Culinary Tours</b></h3>
-            <p>Embark on culinary adventures with Christie and Chris...</p>
-        </div>
-        <div>
-            <h3><b>Private Events</b></h3>
-            <p>Celebrate your special occasions with a cooking party...</p>
-        </div>
-        <div>
-            <h3><b>Kitchen Gadgets & Cookbooks</b></h3>
-            <p>Explore our selection of curated kitchen gadgets and cookbooks...</p>
-        </div>
-        <ul>
-            <li><i>Interactive Environment</i></li>
-            <li>Expert Guidance</li>
-        </ul>
-        <ol>
-            <li>Italian Cuisine</li>
-            <li>Vegan Delights</li>
-        </ol>
-    </section>
-    <section>
-        <h2>Join Our Community</h2>
-        <p>Become part of a growing community of cooking enthusiasts...</p>
-    </section>
-    <a href="http://example.com">Visit our main website</a><br>
-    <a href="mailto:contact@cookingcabin.com">Contact us via email</a><br>
-    <img src="kitchen.jpg" alt="A bustling kitchen scene at Christie and Chris's Cooking Cabin." width="500"><br>
-    <a href="menu.pdf">Download Our Latest Menu</a><br>
-    <p>Last updated: <font color="red">[Insert Date Here Manually]</font></p>
-    <footer>
-        <p>Contact us today to learn more about our services or to book your next cooking experience.</p>
-    </footer>
+
+    <h1 style="text-align: center; font-family: Helvetica;">Services We Offer</h1>
+
+    <p><a href="index.html">Home</a> | <a href="history.html">History & Management</a> | <a href="products.html">Products</a> | <a href="services.html" style="color: #ff7251;">Services</a> | <a href="reviews.html">Reviews</a></p>
+
+    <img src="cooking-cabin.jpg" alt="Christie and Chris’s Cooking Cabin" width="300">
+
+    <p style="font-family: Avenir; color: #9b2948;">At <strong>Christie and Chris’s Cooking Cabin</strong>, we offer a variety of services:</p>
+
+    <ul style="font-family: Avenir;">
+        <li><u>Cooking Classes</u></li>
+        <li>Culinary Workshops</li>
+        <li>Private Cooking Events</li>
+    </ul>
+
+    <ol style="font-family: Avenir;">
+        <li><i>Personalized Culinary Assistance</i></li>
+        <li>Cooking Competitions</li>
+        <li>Recipe Development</li>
+    </ol>
+
+    <p style="font-family: Avenir; color: #ff7251;">Check out our <a href="cooking-guide.pdf" download>Free Cooking Guide</a> to get started!</p>
+
+    <p style="font-family: Avenir;">Contact us at <a href="mailto:contact@cookingcabin.fakeemail">contact@cookingcabin.fakeemail</a> or visit our <a href="https://www.example.com" target="_blank">Partners' Website</a>.</p>
+
+    <p id="lastModified" style="font-family: Avenir; font-size: small;"></p>
+
+    <script>
+        document.getElementById('lastModified').textContent = 'Last Modified: ' + document.lastModified;
+    </script>
+
 </body>
 </html>
+
