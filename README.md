@@ -12,7 +12,7 @@
 - ![#ffcd74](https://placehold.co/15x15/ffcd74/ffcd74.png) `#ffcd74` Page div background
 - ![#ffca7b](https://placehold.co/15x15/ffca7b/ffca7b.png) `#ffca7b` Nav
 - ![#ff7251](https://placehold.co/15x15/ff7251/ff7251.png) `#ff7251` Text highlight color
-- ![#9b2948](https://placehold.co/15x15/9b2948/9b2948.png) `#9b2948` Nav text & branding
+- ![#9b2948](https://placehold.co/15x15/9b2948/9b2948.png) `#9b2948` Nav text, branding, and footer
 
 ## [Assignment](https://docs.google.com/document/d/1_ibNTPh-GtRLa8-hMkegh4qR96r4M47Y/)
 1. Each of the site’s web pages must demonstrate boldfacing, underlining, italics, at least two font colors, at least two different font sizes (excluding headers),  and at least two different font styles (they may require you to use additional resources). 
