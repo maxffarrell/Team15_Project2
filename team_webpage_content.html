@@ -1,21 +1,33 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <title>Home - Christie and Chris’s Cooking Cabin</title>
-  <script>
-    document.addEventListener('DOMContentLoaded', () => (document.getElementById('lastModified').textContent = `Last Modified: ${new Date(document.lastModified).toLocaleString()}`));
-  </script>
-</head>
-
-<body bgcolor="ffedbf" style="font-family: Avenir;padding-top: 5%;">
-  <center>
-    <h1 style="font-family: Helvetica; color: #9b2948 ;">Christie and Chris’s Cooking Cabin</h1>
-    <h2 style="padding: 25%;">Team 15
-      <br><br>Max Farrell, Aleksey Urmanov, Omar Yaghmour, Wentong Zhang
-    </h2>
-    <div id="lastModified"></div>
-  </center>
-</body>
-
+  <head>
+    <title>Home - Christie and Chris’s Cooking Cabin</title>
+    <script>
+      document.addEventListener(
+        "DOMContentLoaded",
+        () =>
+          (document.getElementById(
+            "lastModified"
+          ).textContent = `Last Modified: ${new Date(
+            document.lastModified
+          ).toLocaleString()}`)
+      );
+    </script>
+  </head>
+  <body bgcolor="ffedbf">
+    <font face="Avenir">
+      <center>
+        <font face="Helvetica" color="#9b2948">
+          <h1>Christie and Chris’s Cooking Cabin</h1>
+        </font>
+        <br /><br /><br /><br />
+        <h2>
+          Team 15<br /><br />Max Farrell, Aleksey Urmanov, Omar Yaghmour,
+          Wentong Zhang
+        </h2>
+        <br /><br /><br /><br />
+        <div id="lastModified"></div>
+      </center>
+    </font>
+  </body>
 </html>
