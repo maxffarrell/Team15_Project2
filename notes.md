@@ -1,14 +1,21 @@
-# History & Management:
- - needs file, font color, another font style?
+# As of 3.19
 
-# Products:
- - two images dont load and dead link
+## History & Management:
+ - please add if you see anything
 
-# Reviews:
- - elon musk twitter link?
+## Products:
+ - two images dont load - try changing kitchen.png to kitchen.jpg I compressed
+ - dead link
+ - font size?
+ - boldfacing?
+ - contact me doesnt work
+ - visit main doesnt work
+
+## Reviews:
  - reviews not Avenir
- - images need some margin, consistent size, rounded corners 
+ - image size inconsistent
+ - underline
 
-# Overall:
- - Need second font color - 
- - round image corners 15px
+## Overall:
+ - remove style attributes (CTRL-F style)
+ - change file download to open in new window (target attribute)
